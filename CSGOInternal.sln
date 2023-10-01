@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CSGOInternal", "CSGOInternal\CSGOInternal.vcxproj", "{86D929C5-4A68-43BA-805A-C566BAC7AE38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86D929C5-4A68-43BA-805A-C566BAC7AE38}.Debug|x86.ActiveCfg = Debug|Win32
+		{86D929C5-4A68-43BA-805A-C566BAC7AE38}.Debug|x86.Build.0 = Debug|Win32
+		{86D929C5-4A68-43BA-805A-C566BAC7AE38}.Release|x86.ActiveCfg = Release|Win32
+		{86D929C5-4A68-43BA-805A-C566BAC7AE38}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93C42141-7E25-4378-91A9-C919F00C3ACE}
+	EndGlobalSection
+EndGlobal
